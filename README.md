@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishh29
-- 👀 I’m interested in Android development and Web development
-- 🌱 I’m currently learning Android development and Web development
-- 💞️ I’m looking to collaborate on Android development and Web development
+- 👀 I’m interested Web development
+- 🌱 I’m currently learning system designing
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me vishnunayak70@gmail.com  
 
 <!---
